@@ -1,6 +1,6 @@
 data/
 raw_data/
-
+otherLargeFiles/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
